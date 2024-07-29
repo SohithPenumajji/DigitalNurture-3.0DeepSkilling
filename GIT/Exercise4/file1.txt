@@ -1,2 +1,3 @@
-Hello Git!
-Git is tool and GitHub is service.
+Hello Git!!
+
+git is tool and github is service.
