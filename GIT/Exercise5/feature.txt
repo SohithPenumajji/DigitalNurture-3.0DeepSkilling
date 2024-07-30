@@ -1,1 +1,0 @@
-branch is used for working on new features on our application simultaneously to our main.
